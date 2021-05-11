@@ -1,7 +1,7 @@
 {
-  "name": "analysis",
+  "name": "@fractional-company/analysis",
   "version": "1.0.0",
-  "description": "NFT Collection Analysis",
+  "description": "Fractional Collection Analysis",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf dist && babel src -d dist --copy-files"
@@ -28,5 +28,6 @@
     "@babel/preset-env": "^7.14.0",
     "rimraf": "^3.0.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "main": "src/index"
 }
