@@ -37,6 +37,6 @@ export default [
                 "tokenIds": []
             }
         ],
-        "analysis": () => import("./cryptopunks.json"),
+        "load": () => import("./cryptopunks.json"),
     },
 ]

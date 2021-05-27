@@ -28,8 +28,10 @@ class AnalysisFinder {
 
                 // if found, load the analysis
                 if (isFound) {
-                    let data = await item.analysis()
-                    item.analysis = data.default ? data.default : data
+                    let data = await item.load()
+                    item.analysis = data.default
+                        ? data.default
+                        : data
                     return item
                 }
 
