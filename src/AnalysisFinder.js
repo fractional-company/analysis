@@ -8,8 +8,8 @@ class AnalysisFinder {
                 // if not found search by contract address & token ids
                 : item.contracts.find(contract => !(contract.address.toLowerCase() === slugOrContractAddress.toLowerCase())
                     ? false
-                    : contract?.tokenIds.length > 0
-                        ? contract?.tokenIds?.includes(tokenId)
+                    : contract.tokenIds && contract.tokenIds.length > 0
+                        ? contract.tokenIds.includes(tokenId)
                         : true
                 )
             )
