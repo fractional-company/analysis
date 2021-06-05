@@ -7,16 +7,6 @@ Fractional Analysis is a package that includes analysis of NFT collections that 
 The analysis include: name, website, slug, description, image,
 contract information (address, token ids - if needed) and the analysis with that cover at least 4 topics such as general overview, cultural significance, macro, metrics and risk.
 
-## Installation
-
-```bash
-npm install @fractional-company/analysis
-```
-
-```bash
-yarn add @fractional-company/analysis
-```
-
 ## Examples
 
 ### Query available analyses
@@ -27,6 +17,6 @@ AnalysisFinder.getAnalysis("contractAddress or slug", "tokenId (optional)");
 
 ## Adding new analysis
 
-Submit PR with the added analysis file to `src/analyses/{collection name}` and updated `src/analyses/index.js`.
+Submit a PR with the added analysis file to `src/analyses/{collection name}` and updated `src/analyses/index.js`.
 
 Please follow the analysis specification found here: `src/analyses/analysis.schema.json` and `src/analyses/example/index.js`
