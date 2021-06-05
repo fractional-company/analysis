@@ -5,7 +5,7 @@ npm-debug.log
 .tmp
 .idea
 .env
-
+/dist
 coverage
 lcov.info
 .nyc_output
