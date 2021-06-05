@@ -1,42 +1,36 @@
 // ****************************************************
-// List of collection analysis
+// List of analysis
 // ****************************************************
-//
-// INSTRUCTIONS:
-// 1. Make an export const
-// 2. Add the analysis to the default array at the bottom
-//
-// export const example = {
-//     "name": "Collection name (required)",
-//     "slug": "Collection-slug (required)",
-//     "description": "Collection description (max 100 characters)" // used for SEO,
-//     "website": "Collection website (optional)",
-//     "contracts": [
-//         {
-//             "address": "Collection contract address (required)",
-//             "tokenIds": ["Collection contract token ids (if necessary)"] (optional)
-//         }
-//     ],
-//     "analysis": () => import("path to the file in the folder") (required)
-// }
-// ****************************************************
+import axie from "./axie-infinity"
+import beeple from "./beeple"
+import chromieSquiggles from "./chromie-squiggles"
+import cryptokitties from "./cryptokitties"
+import cryptopunks from "./cryptopunks"
+import cryptovoxels from "./cryptovoxels"
+import decentraland from "./decentraland"
+import theDefault from "./default"
+import eulerbeats from "./eulerbeats"
+import hashmasks from "./hashmasks"
+import meebits from "./meebits"
+import snowden from "./snowden"
+import somnium from "./somnium-space-vr"
+import sorare from "./sorare"
+import xcopy from "./xcopy"
 
 export default [
-    {
-        "name": "Crypto Punks",
-        "description": "Crypto Punks description",
-        "slug": "cryptopunks",
-        "website": "https://wwww.lavalabs.com",
-        "contracts": [
-            {
-                "address": "test",
-                "tokenIds": []
-            },
-            {
-                "address": "test2",
-                "tokenIds": []
-            }
-        ],
-        "load": () => import("./cryptopunks.json"),
-    },
+    axie,
+    beeple,
+    chromieSquiggles,
+    cryptokitties,
+    cryptopunks,
+    cryptovoxels,
+    decentraland,
+    theDefault,
+    eulerbeats,
+    hashmasks,
+    meebits,
+    snowden,
+    somnium,
+    sorare,
+    xcopy,
 ]
