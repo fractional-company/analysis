@@ -1,6 +1,6 @@
 {
   "name": "@fractional-company/analysis",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "description": "Fractional Collection Analysis",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,6 +28,13 @@
     "@babel/preset-env": "^7.14.0",
     "rimraf": "^3.0.2"
   },
+  "engines": {
+    "node": ">=10"
+  },
   "dependencies": {},
-  "main": "src/index"
+  "files": [
+    "dist",
+    "src"
+  ],
+  "main": "index.js"
 }

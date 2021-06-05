@@ -1,0 +1,18 @@
+{
+  "title": "Analysis",
+  "type": "object",
+  "description": "Collection analysis",
+  "items": {
+    "type": "object",
+    "properties": {
+      "title": {
+        "description": "Title of the section",
+        "type": "string"
+      },
+      "content": {
+        "description": "Section content",
+        "type": "string"
+      }
+    }
+  }
+}
