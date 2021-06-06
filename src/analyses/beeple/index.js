@@ -4,9 +4,9 @@ export default {
     slug: "beeple",
     website: "https://www.beeple-crap.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "Beeple"
+        thumbnail: "https://assets.fractional.art/media/analysis/beeple_banner.png",
+        banner: "https://assets.fractional.art/media/analysis/beeple_thimbnail.png",
+        source: "https://www.beeple-crap.com"
     },
     contracts: [
         {

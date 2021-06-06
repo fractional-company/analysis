@@ -4,9 +4,9 @@ export default {
     slug: "somnium-space-vr",
     website: "https://somniumspace.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "lavalabs"
+        thumbnail: "https://assets.fractional.art/media/analysis/smv_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/smv_thumbnail.jpg",
+        source: "https://somniumspace.com/"
     },
     contracts: [
         {

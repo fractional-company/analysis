@@ -4,9 +4,9 @@ export default {
     slug: "xcopy",
     website: "https://twitter.com/XCOPYART",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "XCOPY"
+        thumbnail: "https://assets.fractional.art/media/analysis/XCOPY_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/XCOPY_banner.png",
+        source: "https://www.nftculture.com/wp-content/uploads/2021/02/XCOPY-NFT-ARtist.png",
     },
     contracts: [
         {

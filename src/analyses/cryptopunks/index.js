@@ -3,10 +3,10 @@ export default {
     description: "10,000 unique collectible characters with proof of ownership stored on the Ethereum blockchain.",
     slug: "cryptopunks",
     website: "https://wwww.lavalabs.com",
-    image: {
-        thumbnail: "",
-        banner: "",
-        source: "lavalabs"
+     image: {
+        thumbnail: "https://assets.fractional.art/media/analysis/punks_list.png",
+        banner: "https://assets.fractional.art/media/analysis/punks_banner.png",
+        source: "https://larvalabs.com/public/images/product/cryptopunks/punk-variety-2x.png",
     },
     contracts: [
         {

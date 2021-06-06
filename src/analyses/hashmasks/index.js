@@ -4,9 +4,9 @@ export default {
     slug: "hashmasks",
     website: "https://www.thehashmasks.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "hashmasks"
+       thumbnail: "https://assets.fractional.art/media/analysis/hashmasks_thumbnail.jpg",
+        banner: "https://assets.fractional.art/media/analysis/hashmasks_banner.jpg",
+        source: "https://pbs.twimg.com/profile_banners/1315596439389691904/1617561293/1500x500",
     },
     contracts: [
         {

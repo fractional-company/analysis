@@ -4,9 +4,9 @@ export default {
     slug: "decentraland",
     website: "https://decentraland.org/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "decentraland"
+        thumbnail: "https://assets.fractional.art/media/analysis/decentraland_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/decentraland_banner.jpg",
+        source: "https://decentraland.org/"
     },
     contracts: [
         {

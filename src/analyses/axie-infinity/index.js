@@ -4,9 +4,9 @@ export default {
     slug: "axie-infinity",
     website: "https://axieinfinity.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "axie"
+        thumbnail: "https://assets.fractional.art/media/analysis/axie_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/axie_banner.png",
+        source: "https://axieinfinity.com",
     },
     contracts: [
         {

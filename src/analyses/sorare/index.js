@@ -4,9 +4,9 @@ export default {
     slug: "sorare",
     website: "https://sorare.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "sorare"
+        thumbnail: "https://assets.fractional.art/media/analysis/sorare_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/sorare_banner.jpg",
+        source: "https://sorare.com/",
     },
     contracts: [
         {

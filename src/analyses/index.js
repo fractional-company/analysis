@@ -16,10 +16,12 @@ import snowden from "./snowden"
 import somnium from "./somnium-space-vr"
 import sorare from "./sorare"
 import xcopy from "./xcopy"
+import bayc from "./bayc"
 
 export default [
     axie,
     beeple,
+    bayc,
     chromieSquiggles,
     cryptokitties,
     cryptopunks,

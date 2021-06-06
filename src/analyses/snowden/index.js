@@ -4,9 +4,9 @@ export default {
     slug: "stay-free",
     website: "https://foundation.app/Snowden/stay-free-edward-snowden-2021-24437",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "foundation"
+        thumbnail: "https://assets.fractional.art/media/analysis/stayfree_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/stayfree_banner.png",
+        source: "https://www.corriere.it/methode_image/2021/04/19/Tecnologia/Foto%20Tecnologia%20-%20Trattate/nft-cf-cropped-0-12-4384-3288-kum--656x492@Corriere-Web-Sezioni.png"
     },
     contracts: [
         {

@@ -4,9 +4,9 @@ export default {
     slug: "meebits",
     website: "https://meebits.larvalabs.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "meebits"
+        thumbnail: "https://assets.fractional.art/media/analysis/meebits_banner.jpg",
+        banner: "https://assets.fractional.art/media/analysis/meebits_thumbnail.jpg",
+        source: "https://meebits.larvalabs.com/"
     },
     contracts: [
         {
@@ -30,7 +30,7 @@ export default {
         {
             title: "Market Watch",
             content: "Meebits have already shown a vibrant and active community with heavy trading early on. Thus far, the highest recorded sale was #8598, a Visitor, for 420 ETH. At the time of writing, no Dissected Meebits have sold on the secondary market.\n"
-        },{
+        }, {
             title: "Risk",
             content: "Cryptocurrencies are inherently risky, and emerging asset classes like NFTs are no exception towards the rule. In fact, as a whole, this asset class may carry even higher volatility than other crypto assets. While the NFT space has seen strong momentum, that may not always be the case; research accordingly and proceed with caution."
         }

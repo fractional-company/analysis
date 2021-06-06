@@ -4,9 +4,9 @@ export default {
     slug: "cryptokitties",
     website: "https://www.cryptokitties.co/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "Cryptokitties"
+       thumbnail: "https://assets.fractional.art/media/analysis/cryptokitties_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/cryptokitties_banner.png",
+        source: "https://www.cryptokitties.co",
     },
     contracts: [
         {

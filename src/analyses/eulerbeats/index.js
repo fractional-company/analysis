@@ -4,9 +4,9 @@ export default {
     slug: "eulerbeats",
     website: "https://eulerbeats.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "eulerbeats"
+        thumbnail: "https://assets.fractional.art/media/analysis/eulerbeats_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/eulerbeats_banner.png",
+        source: "https://twitter.com/eulerbeats/status/1379779177193295872",
     },
     contracts: [
         {

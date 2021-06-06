@@ -1,12 +1,12 @@
 export default {
     name: "Chromie Squiggles",
-    description: "Mike Winkelmann, more commonly known as XCOPY, might have an argument as the most significant digital artist of all time.",
+    description: "Chromie Squiggles is the premier project of Erick Calderon, also known as Snowfro & the founder of Art Blocks.",
     slug: "chromie-squiggles",
-    website: "https://twitter.com/XCOPYART",
+    website: "https://twitter.com/ArtOnBlockchain",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "XCOPY"
+        thumbnail: "https://assets.fractional.art/media/analysis/chromie_banner.png",
+        banner: "https://assets.fractional.art/media/analysis/chromie_thumbnail.png",
+        source: "https://twitter.com/ArtOnBlockchain"
     },
     contracts: [
         {

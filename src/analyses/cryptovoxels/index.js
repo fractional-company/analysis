@@ -4,9 +4,9 @@ export default {
     slug: "cryptovoxels",
     website: "https://www.cryptovoxels.com/",
     image: {
-        thumbnail: "",
-        banner: "",
-        source: "lavalabs"
+        thumbnail: "https://assets.fractional.art/media/analysis/cryptovoxel_thumbnail.jpg",
+        banner: "https://assets.fractional.art/media/analysis/cryptovoxel_banner.png",
+        source: "https://pbs.twimg.com/media/E2rP3IfVgAIhleA?format=jpg&name=large"
     },
     contracts: [
         {
