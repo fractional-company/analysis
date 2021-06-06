@@ -4,7 +4,7 @@ export default {
     slug: "cryptopunks",
     website: "https://wwww.lavalabs.com",
      image: {
-        thumbnail: "https://assets.fractional.art/media/analysis/punks_list.png",
+        thumbnail: "https://assets.fractional.art/media/analysis/cryptopunks_thumbnail_1.jpg",
         banner: "https://assets.fractional.art/media/analysis/punks_banner.png",
         source: "https://larvalabs.com/public/images/product/cryptopunks/punk-variety-2x.png",
     },
