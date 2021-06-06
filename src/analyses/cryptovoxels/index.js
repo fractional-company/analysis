@@ -5,7 +5,7 @@ export default {
     website: "https://www.cryptovoxels.com/",
     image: {
         thumbnail: "https://assets.fractional.art/media/analysis/cryptovoxel_thumbnail.jpg",
-        banner: "https://assets.fractional.art/media/analysis/cryptovoxel_banner.png",
+        banner: "https://assets.fractional.art/media/analysis/cryptovoxel_banner.jpg",
         source: "https://pbs.twimg.com/media/E2rP3IfVgAIhleA?format=jpg&name=large"
     },
     contracts: [
