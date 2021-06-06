@@ -4,8 +4,8 @@ export default {
     slug: "chromie-squiggles",
     website: "https://twitter.com/ArtOnBlockchain",
     image: {
-        thumbnail: "https://assets.fractional.art/media/analysis/chromie_banner.png",
-        banner: "https://assets.fractional.art/media/analysis/chromie_thumbnail.png",
+        thumbnail: "https://assets.fractional.art/media/analysis/chromie_thumbnail.png",
+        banner: "https://assets.fractional.art/media/analysis/chromie_banner.png",
         source: "https://twitter.com/ArtOnBlockchain"
     },
     contracts: [

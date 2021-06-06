@@ -4,8 +4,8 @@ export default {
     slug: "meebits",
     website: "https://meebits.larvalabs.com/",
     image: {
-        thumbnail: "https://assets.fractional.art/media/analysis/meebits_banner.jpg",
-        banner: "https://assets.fractional.art/media/analysis/meebits_thumbnail.jpg",
+        thumbnail: "https://assets.fractional.art/media/analysis/meebits_thumbnail.jpg",
+        banner: "https://assets.fractional.art/media/analysis/meebits_banner.jpg",
         source: "https://meebits.larvalabs.com/"
     },
     contracts: [
