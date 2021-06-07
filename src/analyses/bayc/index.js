@@ -17,19 +17,19 @@ export default {
     analysis: [
         {
             title: "General",
-            content: ""
+            content: "Launching on May 1, 2021 for 0.08 ETH a piece, this collection of 10,000 uniquely generated cartoon apes became an instant sensation, selling out its entire allotment within a few hours. Capitalizing on ape meme culture, BAYC quickly cultivated a loyal community of supporters, with colorful and memorable design features that reference iconic NFT projects such as Cryptopunks and Hashmasks."
         },
         {
             title: "Cultural Significance",
-            content: ""
+            content: "Despite such a recent release, BAYC is most known for developing one of the most ardent and enthusiastic supporters, with one of the highest trafficked Discords, as well being perfect for social media avatars.  NBA stars Lamelo Ball & Tyrese Haliburton are just some of the famous collectors that can call themselves BAYC owners. In addition, BAYC merch, primarily spearhead by the community, has also demonstrated both strong primary and secondary sales."
         },
         {
             title: "Market Watch",
-            content: ""
+            content: "BAYC #8023 holds the record for highest sale to date, 50 ETH. A wonderfully psychedelic rainbow ape, this piece features the Trippy Fur trait, limited to 77. Gold fur (x/46) and blue beam laser eyes (x/49) are two other desirable traits for collectors. Featureless naked apes, known as 4 trait apes, are also popular for BAYC enthusiasts. Total sales have skyrocketed this past month, with over $13M in volume, ranking as the 4th highest volume NFT collection during that time period. Overall, BAYC has traded about $23M, as of June 2021. \n"
         },
         {
             title: "Risk",
-            content: "Like its real world counterparts, virtual world property can be volatile and illiquid. Valuations can fluctuate on a variety of outside factors on both the macro level (metaverse traffic) and micro level (the contents of adjacent lands). Investors should be aware of these risks."
+            content: "Cryptocurrencies are inherently risky, and emerging asset classes like NFTs are no exception towards the rule. BAYC has recently seen a huge surge in volume and price and buyers should be aware of both short and long term pricing volatility."
         }
     ],
 }
