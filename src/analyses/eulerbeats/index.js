@@ -33,7 +33,7 @@ export default {
         },
         {
             title: "Metrics",
-            content: "During the past 30 days, Genesis has traded $650k of volume while <i>Enigma</i> has traded $6.27M of volume. The most recent sale for any Original track, <i>Enigma LP12</i>, was for 79 ETH in April of 2021. Currently, the lowest priced Genesis Original on the secondary market is listed for 99 ETH, compared to 56 ETH for an <i>Enigma</i>."
+            content:"The <i>Genesis</i> series has totaled over $25M in sales, while the <i>Enigma</i> series sits at $6.5M. The most recent sale for any Original track, <i>Enigma LP12</i>, was for 79 ETH in April of 2021. Currently, the lowest priced Genesis Original on the secondary market is listed for 59 ETH, compared to 50 ETH for an Enigma. The projects have sold roughly $108k during the past 30 days."
         },
         {
             title: "Risk",

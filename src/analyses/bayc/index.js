@@ -25,7 +25,7 @@ export default {
         },
         {
             title: "Market Watch",
-            content: "BAYC #8023 holds the record for highest sale to date, 50 ETH. A wonderfully psychedelic rainbow ape, this piece features the Trippy Fur trait, limited to 77. Gold fur (x/46) and blue beam laser eyes (x/49) are two other desirable traits for collectors. Featureless naked apes, known as 4 trait apes, are also popular for BAYC enthusiasts. Total sales have skyrocketed this past month, with over $13M in volume, ranking as the 4th highest volume NFT collection during that time period. Overall, BAYC has traded about $23M, as of June 2021. \n"
+            content: "BAYC #8023 holds the record for highest sale to date, 50 ETH. A wonderfully psychedelic rainbow ape, this piece features the Trippy Fur trait, limited to 77. Gold fur (x/46) and blue beam laser eyes (x/49) are two other desirable traits for collectors. Featureless naked apes, known as 4 trait apes, are also popular for BAYC enthusiasts. Total sales have skyrocketed this past month, with over $13M in volume, ranking as the 4th highest volume NFT collection during that time period. Overall, BAYC has traded about $26M, as of June 2021."
         },
         {
             title: "Risk",

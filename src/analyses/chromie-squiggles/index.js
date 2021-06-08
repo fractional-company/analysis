@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Market Watch",
-            content: "In March 2021, Chromie Squiggle #5355 set the record for highest sale at 45 ETH. It features two very rare traits: Hyper Rainbow (0.48%)and Bold (2%). The next two highest sales both belong to Hyper rainbow and Slinky (4%) combinations: #8353 40 ETH and #1177 for 37.4 ETH. As of May 2021, only two Perfect Rainbows (0.08%) are listed on the secondary market, with the floor currently priced at 30 ETH."
+            content: "In March 2021, Chromie Squiggle #5355 set the record for highest sale at 45 ETH. It features two very rare traits: Hyper Rainbow (0.48%)and Bold (2%). The next two highest sales both belong to Hyper rainbow and Slinky (4%) combinations: #8353 40 ETH and #1177 for 37.4 ETH. As of June 2021, only one Perfect Rainbows (0.08%) is listed on the secondary market, currently priced at 50 ETH."
         },
         {
             title: "Risk",

@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Market Watch",
-            content: "Meebits have already shown a vibrant and active community with heavy trading early on. Thus far, the highest recorded sale was #8598, a Visitor, for 420 ETH. At the time of writing, no Dissected Meebits have sold on the secondary market.\n"
+            content: "Meebits have already shown a vibrant and active community with heavy trading early on. Thus far, the highest recorded sale was #8598, a Visitor, for 420 ETH. At the time of writing, Dissected Meebits (limited to 5) have not sold on the secondary market, with the floor price sitting at 2888 ETH. Overall, secondary market trading has remained strong, with Meebits catapulting up to the 6th highest volume NFT project, with over $67M in total sales."
         }, {
             title: "Risk",
             content: "Cryptocurrencies are inherently risky, and emerging asset classes like NFTs are no exception towards the rule. In fact, as a whole, this asset class may carry even higher volatility than other crypto assets. While the NFT space has seen strong momentum, that may not always be the case; research accordingly and proceed with caution."

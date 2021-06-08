@@ -25,7 +25,7 @@ export default {
         },
         {
             title: "Market Data & Notable Sales",
-            content: "Kylian Mbappe set the Sorare record for highest sale in November of 2020, with his Unique 1 of 1 card selling for 116 ETH. In February of 2021, Cristiano Ronaldo’s Unique card sold for 53 ETH. Consistently ranking in the top 10 for NFT volume, Sorare collectibles traded for over 3400 ETH in volume."
+            content: "Kylian Mbappe set the Sorare record for highest sale in November of 2020, with his Unique 1 of 1 card selling for 116 ETH. In February of 2021, Cristiano Ronaldo’s Unique card sold for 53 ETH. Consistently ranking in the top 10 for NFT volume, Sorare collectibles traded for over 3400 ETH in volume. Though the football season has winded down, volume remains strong: Sorare is still ranked as the 6th highest volume project within the past 30 days, and maintains the 5th highest sales volume of all time."
         },
         {
             title: "Risk",

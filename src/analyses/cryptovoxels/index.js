@@ -21,7 +21,7 @@ export default {
         },
         {
             title: "Cultural Significance",
-            content: "The highest sale for any single lot in the Voxels metaverse was <a href='https://www.cryptovoxels.com/play?coords=S@249E,222N' target='_blank' class='underline'>39 Hook Street</a>, a property that sold for 110 ETH in December, 2020. The buyer, MetaKovan, subsequently transferred ownership to B20’s portfolio; the plot of virtual land was used to build a monument dedicated to his record-breaking purchase of Beeple’s EVERYDAY NFT and features custom music from 3LAU. Visitors are able to view the complex as a celebration of B20’s works."
+            content: "Consistently ranked in the top 15 of NFT volume, Cryptovoxels averages about 600 ETH of volume per month. This past month, 2 Design Terrace, a plot within Origin City, was the highest priced sale for 15 ETH. Lifetime sales metrics recently surpassed $10M, becoming one of only 17 projects to reach that landmark."
         },
         {
             title: "Metrics",

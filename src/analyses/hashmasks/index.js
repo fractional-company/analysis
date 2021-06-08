@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Metrics",
-            content: "Shortly after the initial presale, DANNY/seedphrase broke the record for highest Hashmasks sale by purchasing #9939, peculiarly named sex, for 420 ETH. This rare piece is a one of 12 Mystical characters, featuring a Unique mask (one of 10) and Mystical eyes (one of 12). Additionally, this Mask is part of the Halo set (one of 20), one of the most desirable hidden, implicit traits in the collection."
+            content: "Shortly after the initial presale, DANNY/seedphrase broke the record for highest Hashmasks sale by purchasing #9939, peculiarly named sex, for 420 ETH. This rare piece is a one of 12 Mystical characters, featuring a Unique mask (one of 10) and Mystical eyes (one of 12). Additionally, this Mask is part of the Halo set (one of 20), one of the most desirable hidden, implicit traits in the collection. Currently, Hashmasks is the 7th highest volume project of all time, with sales surpassing $50M."
         },
         {
             title: "Risk",

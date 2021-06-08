@@ -33,7 +33,7 @@ export default {
         },
         {
             title: "Metrics",
-            content: "In March of 2021, Cryptopunk #7804 broke the record for highest sale for 4,200 ETH. Perhaps one of the most iconic punks in existence, this Alien is notably the only one with a pipe. The highest recorded non-Alien sale was ape #6965, also more commonly known as the fedora ape. This rare ape sold for 800 ETH in February of 2021. As of May 2021, the lowest price Cryptopunk on the secondary market  is priced at 19.5 ETH."
+            content: "Cryptopunks currently is the highest selling NFT project of all time, with total sales of over $350M USD. In March of 2021, Cryptopunk #7804 broke the record for highest sale for 4,200 ETH. Perhaps one of the most iconic punks in existence, this Alien is notably the only one with a pipe. The highest recorded non-Alien sale was ape #6965, also more commonly known as the fedora ape. This rare ape sold for 800 ETH in February of 2021.  As of June 2021, the lowest price Cryptopunk on the secondary market  is priced approximately 14 ETH."
         },
         {
             title: "Risk",

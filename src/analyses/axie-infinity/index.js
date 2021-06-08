@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Metrics",
-            content: "The highest recorded sale for an Axie is 300 ETH for a Triple Mystic in November of 2020. As of 5/21, there are actually no Triple and Quad Mystics listed on the secondary market. The lowest priced Double Mystic is currently 20 ETH. The game features over 22,000 active daily users and ranks as the most popular cryptocurrency game on the market."
+            content: "The highest recorded sale for an Axie is 300 ETH for a Triple Mystic in November of 2020. As of 5/21, there are actually no Triple and Quad Mystics listed on the secondary market. The lowest priced Double Mystic is currently 20 ETH. The game features over 22,000 active daily users and ranks as the most popular cryptocurrency game on the market. Currently, volume for the project is surging; Axie Infinity is ranked #1 in NFT volume for the past 30 days, bringing in over $46M in secondary sales, a figure that accounts for over half of its lifetime sales volume."
         },
         {
             title: "Risk",
