@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Launching on May 1, 2021 for 0.08 ETH a piece, this collection of 10,000 uniquely generated cartoon apes became an instant sensation, selling out its entire allotment within a few hours. Capitalizing on ape meme culture, BAYC quickly cultivated a loyal community of supporters, with colorful and memorable design features that reference iconic NFT projects such as Cryptopunks and Hashmasks."
         },
         {

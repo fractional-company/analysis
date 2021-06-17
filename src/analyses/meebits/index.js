@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Released on 5/3/21, Meebits is the third project of Larva Labs and features a collection of 20,000 fully rendered characters who ostensibly will act as avatars or characters skins in a future virtual world. Like its predecessor Cryptopunks, Meebits come in a variety of character types with a diverse collection of clothing and accessories. The dissected character type is by far the most scarce, with only four (so far) in existence. Visitors, Skeletons, and Robots are among the more desirable types. While Humans are the most common type, certain clothing items and accessories can add significant value; Meebits equipped with hoodies and 3D glasses are already selling for a premium on the secondary markets."
         },
         {

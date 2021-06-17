@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "The Hashmasks is a collection of 16,384 unique pieces that were created by over 70 anonymous artists. The characters, backgrounds, and traits are subtle and not-so-subtle references towards famous artists, authors, musicians, and mathematicians. Hashmasks were the first notable project to use a pricing curve model for distribution. There were separate pricing tiers where the price of each mask increased as each tranche filled up. A distinguishing aspect of Hashmask ownership is that, unlike some of its peers, owners possess all digital rights for both personal and commercial use."
         },
         {

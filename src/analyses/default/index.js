@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "A non-fungible token (NFT) is type of cryptographic token which represents ownership of a unique\n" +
                 "asset on the blockchain. No two NFT tokens have identical attributes, which means that the NFT that you hold exclusively belongs to you. It is yours, and only yours. Smart contracts prevent duplication and the public nature of blockchains ensure the scarcity of the asset."
         },

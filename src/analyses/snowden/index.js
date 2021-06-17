@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Created by renowned photographer Platon, Stay Free is the genesis NFT produced by Edward Snowden, celebrating the landmark court decision against the National Security Agency and its use of mass surveillance on individuals. Using images of the actual text of the ruling, Platon mapped out  a portrait of the whistleblower. At this time, this is the only NFT associated with Edward Snowden in existence."
         },
         {

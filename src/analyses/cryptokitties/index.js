@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Launched back in 2017 by Dapper Labs, now known for their development of NBA Topshot, Cryptokitties was the first NFT project to gain mainstream recognition. Only 50,000 Gen 0 kitties were initially created during its launch but the game incorporated breeding mechanics: two kitties are capable of breeding, increasing the supply of new kitties. Furthermore, traits from both parents such as fur type and color can be passed down to each new generation, and some traits were only unlocked through the randomized breeding. The amount of time required for kitties to breed a new generation is called the “cooldown”, which increases for each successive offspring, a mechanic designed to preserve the value of more lower generation denominated breeds. Now, there are over 2M kitties in existence, all with a unique combination of traits and attributes."
         },
         {

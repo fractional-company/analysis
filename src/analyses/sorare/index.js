@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "A hybrid between a collectible card game and fantasy sports, Sorare brings a challenging gamification aspect to the NFT sports collectibles scene. Users are able to purchase playing cards of their favorite soccer -- erhm, football -- players to create 5-a-side teams to compete against others for rewards. Each player has four rarities: common (unlimited), rare (numbered to 100), super rare (numbered to 10), and unique (one of a kind), with the higher rarity levels providing multiplying scoring effects. Players receive points based on real world performances including midweek Champions League and Copa Libertadores matches. Players carry over from one season to the next so owning a promising young superstar such as Kylian Mbappe card, for example, could provide benefits for the duration of the player’s career. There are various separate leagues to compete in including European, Asian, and American football leagues."
         },
         {

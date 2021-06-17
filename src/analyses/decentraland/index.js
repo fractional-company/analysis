@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Decentraland is an Ethereum-based virtual world that is known for its immersive gaming applications that encourages social interaction. There are numerous minigames, casinos, and arcades scattered through DCL’s virtual world amongst the 90,000 different plots of LAND. While many factors affect their valuation, LAND near Genesis Plaza consistently carries the most value. The community also prefers lands along roads, with intersections and corners, especially valuable."
         },
         {

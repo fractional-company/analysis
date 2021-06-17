@@ -20,7 +20,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Created by Treum, Euler Beats is an algorithmically generated NFT project that pairs percussion & rhythmic based audio tracks with unique animated visuals. Both the debut collection <i>Genesis</i> and the follow up <i>Enigma</i> are limited to 27 Original tracks. Notably, owners also receive royalties from secondary sales as well as retain full ownership rights to the track. Sitting at the intersection of art, music, and finance, Euler Beats is one of the most innovative projects to hit the NFT space in recent memory."
         },
         {

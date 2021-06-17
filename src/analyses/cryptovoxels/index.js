@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Cryptovoxels is a virtual world on the Ethereum blockchain whose community primarily focuses on showcasing digital art and strong architectural work. Scattered all around the Voxels metaverse are galleries from artists, independent museums, art-related DAOs as well as individuals looking to show off their collection. Some prominent buildings include the Museum of Crypto Art as well Pascal Boyart’s Underground Sistine Chapel, a beautiful demonstration of the capacities of virtual worlds."
         },
         {

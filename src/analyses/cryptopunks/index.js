@@ -20,7 +20,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "In 2017, Larva Labs released what is now widely recognized as the most iconic NFT collection: a set of 10,000 8-bit characters each randomly generated with unique, distinguishing features and accessories. None of the 24x24 pixel punks are alike. The most desirable types include Aliens (x/9), Apes (x/24), and Zombies (x/88), while certain accessories like hoodies and 3D glasses are fiercely sought after. Astute collectors will also value specific edge case rarities such as a specific number of attributes, among other nuanced valuation techniques."
         },
         {

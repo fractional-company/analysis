@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "Somnium Space is an Ethereum-based virtual world accessible via web browser or through major VR headset platforms like Rift, VIVE, & Oculus. Of all the metaverses, the Somnium geography bears the closest resemblance to the real world, with waterfront and island properties fetching a premium against their in-land counterparts. Community members regularly host events including things like treasure hunts, virtual concerts, and charity fundraisers. Usage metrics have been consistently rising, with Somnium recently surpassing 100,000 unique visitors."
         },
         {

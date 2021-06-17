@@ -16,7 +16,7 @@ export default {
     ],
     analysis: [
         {
-            title: "General",
+            title: "Background",
             content: "While perhaps not the first foray into NFT gaming, Axie Infinity is certainly the most popular and polished gaming experience on the blockchain. Axie Infinity is a PvE & PvP tactical turn-based strategy game that shares gameplay similarities to Pokemon. Composed of three Axies, each team battles with a different variety of attacking and defensive moves until the opponent is defeated. Players can compete in tournaments that offer financial rewards."
         },
         {
