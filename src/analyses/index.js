@@ -17,6 +17,7 @@ import somnium from "./somnium-space-vr"
 import sorare from "./sorare"
 import xcopy from "./xcopy"
 import bayc from "./bayc"
+import sandbox from "./sandbox"
 
 export default [
     axie,
@@ -31,6 +32,7 @@ export default [
     eulerbeats,
     hashmasks,
     meebits,
+    sandbox,
     snowden,
     somnium,
     sorare,
