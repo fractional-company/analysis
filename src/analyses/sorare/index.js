@@ -10,7 +10,7 @@ export default {
     },
     contracts: [
         {
-            address: "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
+            address: "0x629a673a8242c2ac4b7b8c5d8735fbeac21a6205",
             tokenIds: []
         },
     ],
