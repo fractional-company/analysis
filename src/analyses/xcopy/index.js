@@ -10,8 +10,8 @@ export default {
     },
     contracts: [
         {
-            address: "0xF87E31492Faf9A91B02Ee0dEAAd50d51d56D5d4d",
-            tokenIds: []
+            address: "0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0",
+            tokenIds: [11221]
         },
     ],
     analysis: [
