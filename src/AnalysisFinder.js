@@ -9,7 +9,7 @@ class AnalysisFinder {
                 : item.contracts.find(contract => !(contract.address.toLowerCase() === slugOrContractAddress.toLowerCase())
                     ? false
                     : contract.tokenIds && contract.tokenIds.length > 0
-                        ? contract.tokenIds.includes(tokenId ? tokenId.toString() : null)
+                        ? contract.tokenIds.map(t => t.toString()).includes(tokenId ? tokenId.toString() : null)
                         : true
                 )
             )
