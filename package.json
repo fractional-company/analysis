@@ -1,6 +1,6 @@
 {
   "name": "@fractional-company/analysis",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Fractional Collection Analysis",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
