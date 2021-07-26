@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Market Watch",
-            content: "Though he has minted pieces on all the major NFT platforms, most of XCOPY’s works are 1 of 1 editions minted on Superrare. April, 2020 was a busy month that might have cemented XCOPY’s place in the Mouth Rushmore of NFTs. Within the same month, <a href='https://superrare.co/artwork/death-dip-14' target='_blank' class='underline'>Death Dip</a> sold for 1000 ETH, <a href='https://superrare.co/artwork/reflection-12' target='_blank' class='underline'>Reflection </a>sold for 475 ETH and <a href='https://superrare.co/artwork-v2/hope-10497' target='_blank' class='underline'>Hope</a> sold for 250 ETH, capping a whirlwind of volume for the eccentric artist."
+            content: "Though he has minted pieces on all the major NFT platforms, most of XCOPY’s works are 1 of 1 editions minted on Superrare. April, 2021 was a busy month that might have cemented XCOPY’s place in the Mouth Rushmore of NFTs.  Within the same month,  <a href='https://superrare.co/artwork/death-dip-14' target='_blank' className='underline'>Death Dip</a> sold for 1000 ETH, <a href='https://superrare.co/artwork/reflection-12' target='_blank' className='underline'>Reflection</a> sold for 475 ETH and <a href='https://superrare.co/artwork-v2/hope-10497' target='_blank' className='underline'>Hope</a> sold for 250 ETH, capping a whirlwind of volume for the eccentric artist. In July, 2021 a prominent NFT collector purchased Hello Admin, PM Me for 175 ETH."
         },
         {
             title: "Risk",

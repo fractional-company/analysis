@@ -25,7 +25,7 @@ export default {
         },
         {
             title: "Metrics",
-            content: "Since the debut of their own secondary marketplace in April, the project has seen a sharp uptick in both primary sales and trading volume. Though previously sitting outside the top 20 of NFT volume, Sandbox now comfortably sits within the top 10 in overall volume, accumulating over $27M in total sales, with the majority of it coming in the past 8 weeks. In June, a 24x24 plot of land sold for $650k, a figure three times higher than the previous record. "
+            content: "Since the debut of their own secondary marketplace in April, the project has seen a sharp uptick in both primary sales and trading volume. Though previously sitting outside the top 20 of NFT volume, Sandbox now comfortably sits within the top 10 in overall volume, accumulating over $37M in total sales, with the majority of it coming in the past 8 weeks. In June, a 24x24 plot of land sold for $650k, a figure three times higher than the previous record. Sales remain strong, with two 12x12 plots recently selling for $287k and 281k respectively."
         },
         {
             title: "Risk",

@@ -29,11 +29,11 @@ export default {
         },
         {
             title: "Macro",
-            content: "Christie’s auction house is set to auction a collection of 9 Cryptopunks with the centerpiece being #635, an Alien with a bandana and sunglasses. Notably, this is also the only Alien with a sub-1000 series number. Conservative projections for the auction estimate the value to be between $7M to $9M. Not to be outdone, Sotheby’s is mirroring its rival by planning its own Punk auction. #7523, an Alien punk with a mask, beanie, and earring is one of the most desirable Punks in existence and set to sell in an auction setting in June.\n"
+            content: "Cryptopunks are one of the few projects to transcend the crypto space into the traditional art world. In May 2021, Christie’s Auction House turned heads by featuring a lot of 9 Cryptopunks. Headlined by Punk #635, an Alien with a bandana and sunglasses, the package sold for nearly $17M USD, drastically outperforming previous appraisal estimates of $7M-$9M. A month later, auction house competitor Sotheby’s, featured its own Alien auction: Punk #7523. This alien with a facemask and beanie hat, sold for $11.8M, breaking the record for any single punk sale. These auctions confirmed the acceptance of NFTs as an integral part of traditional art coverage.\n"
         },
         {
             title: "Metrics",
-            content: "Cryptopunks currently is the highest selling NFT project of all time, with total sales of over $350M USD. In March of 2021, Cryptopunk #7804 broke the record for highest sale for 4,200 ETH. Perhaps one of the most iconic punks in existence, this Alien is notably the only one with a pipe. The highest recorded non-Alien sale was ape #6965, also more commonly known as the fedora ape. This rare ape sold for 800 ETH in February of 2021.  As of June 2021, the lowest price Cryptopunk on the secondary market  is priced approximately 14 ETH."
+            content: "Totalling  sales of over $400M USD, Cryptopunks is one of the highest volume NFT sets. In March of 2021, Cryptopunk #7804, an Alien with a pipe, broke the record for highest sale for 4,200 ETH. The highest recorded non-Alien sale was ape #6965, also more commonly known as the fedora ape. This rare ape sold for 800 ETH in February of 2021.  Recently, several 800+ ETH bids for apes have been rejected. On 7/5/21, Punk #6297 broke the sales record for most expensive Zombie with a price of 520 ETH. As of July 2021, the lowest price Cryptopunk on the secondary market  is priced at approximately 20 ETH."
         },
         {
             title: "Risk",
