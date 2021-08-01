@@ -10,13 +10,17 @@ export default {
     },
     contracts: [
         {
-            address: "0xc170384371494b2a8f6ba20f4d085c4dde763d96",
-            tokenIds: [100010078]
+            "address": "0xc170384371494b2a8f6ba20f4d085c4dde763d96",
+            "tokenIds": [100010078]
         },
         {
-            address: "0x12f28e2106ce8fd8464885b80ea865e98b465149",
-            tokenIds: [100030015]
+            "address": "0x12f28e2106ce8fd8464885b80ea865e98b465149",
+            "tokenIds": [100030015, 100010001]
         },
+        {
+            "address": "0xdd012153e008346591153fff28b0dd6724f0c256",
+            "tokenIds": [100050068, 100040026, 100030023]
+        }
     ],
     analysis: [
         {
