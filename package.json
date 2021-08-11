@@ -1,40 +1,86 @@
 {
   "name": "@fractional-company/analysis",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "description": "Fractional Collection Analysis",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rimraf dist && babel src -d dist --copy-files"
+  "license": "MIT",
+  "repository": "fractional-company/analysis",
+  "main": "dist/index.js",
+  "author": {
+    "name": "CryptoSamurai",
+    "url": "https://fractional.art/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fractional-company/analysis.git"
-  },
-  "keywords": [
-    "fractional",
-    "analysis"
-  ],
-  "author": "CryptoSamurai",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fractional-company/analysis/issues"
-  },
-  "homepage": "https://github.com/fractional-company/analysis#readme",
-  "devDependencies": {
-    "@babel/cli": "^7.13.16",
-    "@babel/core": "^7.14.0",
-    "@babel/plugin-proposal-class-properties": "^7.13.0",
-    "@babel/plugin-transform-runtime": "^7.13.15",
-    "@babel/preset-env": "^7.14.0",
-    "rimraf": "^3.0.2"
-  },
-  "engines": {
-    "node": ">=10"
-  },
-  "dependencies": {},
   "files": [
     "dist",
-    "src"
+    "src",
+    "README.md",
+    "samples"
   ],
-  "main": "src/index.js"
+  "scripts": {
+    "test": "jest",
+    "coverage": "npm test -- --coverage",
+    "postcoverage": "open-cli coverage/lcov-report/index.html",
+    "lint": "eslint .",
+    "flow": "flow check",
+    "docs": "documentation build src/providers/uniswap/v3/index.js -f md -o docs/README.md && documentation build src/** -f html -o docs",
+    "postdocs": "git add README.md",
+    "clean": "rimraf dist",
+    "flowbuild": "flow-copy-source src dist",
+    "prebuild": "npm run docs && npm run clean && npm run flowbuild",
+    "build": "babel src -d dist",
+    "prerelease": "npm test && npm run build",
+    "release": "standard-version",
+    "postpublish": "git push origin master --follow-tags"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "jest": {
+    "verbose": true
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "keywords": [
+    "node",
+    "module",
+    "package",
+    "template",
+    "npm"
+  ],
+  "dependencies": {
+    "graphql": "15.5.1",
+    "graphql-request": "3.5.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.6.2",
+    "@babel/core": "7.6.2",
+    "@babel/plugin-proposal-class-properties": "7.5.5",
+    "@babel/preset-env": "7.6.2",
+    "@babel/preset-flow": "7.0.0",
+    "babel-eslint": "10.0.3",
+    "babel-jest": "24.9.0",
+    "documentation": "12.1.2",
+    "eslint": "6.5.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-config-prettier": "6.3.0",
+    "eslint-plugin-flowtype": "4.3.0",
+    "eslint-plugin-flowtype-errors": "4.1.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jest": "22.17.0",
+    "eslint-plugin-prettier": "3.1.1",
+    "flow-bin": "0.108.0",
+    "flow-copy-source": "2.0.8",
+    "husky": "3.0.7",
+    "jest": "24.9.0",
+    "lint-staged": "9.4.0",
+    "open-cli": "5.0.0",
+    "prettier": "1.18.2",
+    "rimraf": "3.0.0",
+    "standard-version": "7.0.0"
+  }
 }
