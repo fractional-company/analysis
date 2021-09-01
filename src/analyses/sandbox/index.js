@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Risk",
-            content: "Like its real world counterparts, virtual world property can be volatile and illiquid. Valuations can fluctuate on a variety of outside factors on both the macro level (metaverse traffic) and micro level (the contents of adjacent lands). Investors should be aware of these risks."
+            content: "Like its real world counterparts, virtual world property can be volatile and illiquid. Valuations can fluctuate on a variety of outside factors on both the macro level (metaverse traffic) and micro level (the contents of adjacent lands). Collectors should be aware of these risks."
         }
     ],
 }
