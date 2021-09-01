@@ -33,7 +33,7 @@ export default {
         },
         {
             title: "Risk",
-            content: "While each Hashmask generates $NCT and provides somewhat of a value floor through passive income accumulation, speculation in Hashmasks, like most other NFT projects, remains highly volatile and illiquid. Consider all risks before investing."
+            content: "While each Hashmask generates $NCT and provides somewhat of a value floor through passive accumulation, speculation in Hashmasks, like most other NFT projects, remains highly volatile and unpredictable. Consider all value risks before collecting."
         }
     ],
 }
