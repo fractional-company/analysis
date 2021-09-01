@@ -29,7 +29,7 @@ export default {
         },
         {
             title: "Risk",
-            content: "Because the players’ scores are determined by real world performance, there are higher levels of variance associated with this type of investment. Long term injuries can severely affect the valuations of the players’ cards. To a lesser degree, coaching decisions and tactics may not be consistent from game to game. Lastly, each season mints an additional set of cards (111 in total) so while they are distributed even through each season, they are inflationary by design."
+            content: "Because the players’ scores are determined by real world performance, there are higher levels of variance associated with the noteriety and value of this type of collectable. Long term injuries can severely affect desirability of the players’ cards. To a lesser degree, coaching decisions and tactics may not be consistent from game to game. Lastly, each season mints an additional set of cards (111 in total) so while they are distributed even through each season, there is not a fixed or set number of cards by design."
         }
     ],
 }
